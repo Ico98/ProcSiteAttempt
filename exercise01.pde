@@ -1,4 +1,4 @@
-/* @pjs preload="level.txt","tilesheet.png"; */
+/* @pjs preload="tilesheet.png"; */
 editor ed;
 
 void settings()
